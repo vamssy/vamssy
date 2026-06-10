@@ -16,14 +16,11 @@
 
 ## About
 
-Final-year CS student at **BITS Pilani Dubai Campus**, currently building AI-agent products for SMEs at [Tolour Software](https://tolour.com) as an AI Development Intern. I work at the intersection of LLM orchestration, real-world tool use, and reliable agent architecture.
+I like building things that shouldn't work.
 
-My focus is on systems that actually work in production — with proper evals, observability, and failure handling — not just demos.
+Then making them work.
 
-- 🌍 Based in **Dubai, UAE** · Open to AI Engineer roles post-graduation (July 2026)
-- 🤖 Specializing in **LangGraph agent pipelines**, RAG systems, and LLM-integrated backends
-- 🏗️ Currently building: WhatsApp-native AI agents and multi-agent research systems
-- 🎓 B.E. Computer Science · BITS Pilani Dubai Campus
+Then pretending I knew they would work all along.
 
 ---
 
