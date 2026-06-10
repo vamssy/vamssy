@@ -28,7 +28,7 @@ Then pretending I knew they would work all along.
 
 ---
 
-### 🔵 Aegis — Multi-Agent Financial Research System
+### 🔵 Aegis - Multi-Agent Financial Research System
 > Institutional-grade research automation for trading and analysis
 
 An orchestrated multi-agent system that automates financial research workflows — data ingestion, semantic search over filings, signal synthesis, and structured report generation. Built with a production-first mindset: typed schemas, vectorized retrieval, and a clean dashboard UI.
@@ -37,7 +37,7 @@ An orchestrated multi-agent system that automates financial research workflows �
 
 ---
 
-### 🟡 OpsPilot — AI Operations Assistant
+### 🟡 OpsPilot - AI Operations Assistant
 > Internal operations agent for SME back-office automation
 
 An AI agent system for automating internal business workflows — task routing, document handling, and operational Q&A.
