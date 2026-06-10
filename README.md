@@ -40,15 +40,15 @@ An orchestrated multi-agent system that automates financial research workflows �
 ### 🟡 OpsPilot — AI Operations Assistant
 > Internal operations agent for SME back-office automation
 
-An AI agent system for automating internal business workflows — task routing, document handling, and operational Q&A — built during my internship at Tolour Software.
+An AI agent system for automating internal business workflows — task routing, document handling, and operational Q&A.
 
 **Stack:** `Node.js` `Express` `Supabase` `OpenAI` `React.js`
 
 ---
-### 🟢 Aidara — WhatsApp AI Sales Operations Agent
-> AI agent for UAE SMEs to run sales ops entirely through WhatsApp
+### 🟢 Tracery - Visual Builder for RAG & LLM-Agent Pipelines
+>A visual workflow builder for RAG and LLM agents.
 
-A LangGraph-based, multi-tool AI agent that handles lead management, follow-ups, and operational queries for small businesses — with no app to install, no dashboard to learn. Built for the UAE market where WhatsApp is the primary business communication channel.
+Compose an AI pipeline as a graph of typed nodes — input → retrieval → prompt → model → output — run it, inspect a per-node execution trace (I/O, latency, tokens, cost), and deploy it as a callable HTTP endpoint.
 
 **Stack:** `LangGraph` `Supabase` `Node.js` `WhatsApp Business API` `OpenAI`
 
