@@ -29,13 +29,6 @@ My focus is on systems that actually work in production — with proper evals, o
 
 ## Featured Projects
 
-### 🟢 Aidara — WhatsApp AI Sales Operations Agent
-> AI agent for UAE SMEs to run sales ops entirely through WhatsApp
-
-A LangGraph-based, multi-tool AI agent that handles lead management, follow-ups, and operational queries for small businesses — with no app to install, no dashboard to learn. Built for the UAE market where WhatsApp is the primary business communication channel.
-
-**Stack:** `LangGraph` `Supabase` `Node.js` `WhatsApp Business API` `OpenAI`
-
 ---
 
 ### 🔵 Aegis — Multi-Agent Financial Research System
@@ -55,6 +48,12 @@ An AI agent system for automating internal business workflows — task routing, 
 **Stack:** `Node.js` `Express` `Supabase` `OpenAI` `React.js`
 
 ---
+### 🟢 Aidara — WhatsApp AI Sales Operations Agent
+> AI agent for UAE SMEs to run sales ops entirely through WhatsApp
+
+A LangGraph-based, multi-tool AI agent that handles lead management, follow-ups, and operational queries for small businesses — with no app to install, no dashboard to learn. Built for the UAE market where WhatsApp is the primary business communication channel.
+
+**Stack:** `LangGraph` `Supabase` `Node.js` `WhatsApp Business API` `OpenAI`
 
 ## Tech Stack
 
@@ -89,32 +88,3 @@ An AI agent system for automating internal business workflows — task routing, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## Currently
-
-- 🔧 Wrapping up **PS-II internship** at Tolour Software · July 2026
-- 🏗️ Extending **Aidara** with multi-tenant support and production evals
-- 📖 Deepening expertise in **agent observability**, **LLM evals**, and **reliability engineering**
-- 🌐 Exploring opportunities in the **UAE AI engineering ecosystem**
-
----
-
-<div align="center">
-
-*"Production-grade or it doesn't count."*
-
-</div>
