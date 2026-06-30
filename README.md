@@ -12,18 +12,6 @@
 
 </div>
 
----
-
-## About
-
-I like building things that shouldn't work.
-
-Then making them work.
-
-Then pretending I knew they would work all along.
-
----
-
 ## Featured Projects
 
 ---
