@@ -38,7 +38,7 @@ An AI agent system for automating internal business workflows — task routing, 
 
 Compose an AI pipeline as a graph of typed nodes — input → retrieval → prompt → model → output — run it, inspect a per-node execution trace (I/O, latency, tokens, cost), and deploy it as a callable HTTP endpoint.
 
-**Stack:** `LangGraph` `Supabase` `Node.js` `WhatsApp Business API` `OpenAI`
+**Stack:** `LangGraph` `Supabase` `Node.js`
 
 ## Tech Stack
 
